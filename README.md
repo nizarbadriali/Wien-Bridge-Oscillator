@@ -1,10 +1,10 @@
 # Wien Bridge Oscillator
 
-![Schematic](docs/schematic.png)
+![Schematic](docs/schematic.jpg)
 
-![Waveform Output](docs/waveform_output.png)
+![Waveform Output](docs/waveform_output.jpg)
 
-![Measurements](docs/cursor_measurements.png)
+![Measurements](docs/cursor_measurements.jpg)
 
 82.2 kHz oscillator circuit using LT1007 op-amp.
 
